@@ -24,7 +24,9 @@ let profile = {
     "Visual studio code",
     "Git and Github",
     "Trello",
-    "Postman"
+    "Postman",
+    "SQL Management Studio",
+    "Java"
   ],
   social: {
     linkedin:"https://www.linkedin.com/in/ayanda-kubeka-7a76b0159"
