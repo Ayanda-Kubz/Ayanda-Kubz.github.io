@@ -3,14 +3,14 @@
 // Change your profile data here
 let profile = {
   picture: "",
-  name: "Luntu Ncwadi",
+  name: "Ayanda Kubeka",
   description:
     "I'm a Junior Full Stack developer with a high aptitude for assimilating new skills and technologies .",
   bio:
     "I've been programming for 4 years. have 6+ months of professional work experience after graduating.I'm currenlty working as an entry level full stack developer with  Software Development diploma.I am a software developer with knowledge i have gained since the beginning of my journey in software development, I have  experience in different backend and frontend languages, databases and responsive frameworks. I seek an opportunity in Java, AngularJS, Full Stack Development and Database Management.",
   email: "ayandaujkubeka@gmail.com",
   location: "Johannesburg ,Gauteng",
-  cell:"078 398 5285", // YYYY-MM-DD format
+  cell:"063 094 4722", // YYYY-MM-DD format
   skills: [
     
     "Angular7",
