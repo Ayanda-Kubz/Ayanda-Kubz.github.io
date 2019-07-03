@@ -34,7 +34,7 @@ let profile = {
   experience: [
     {
       title: "Fullstack developer",
-      company: "The Digital Academy",
+      company: "https://www.thedigitalacademy.co.za/",
       url: "https://www.thedigitalacademy.co.za/",
       location: "Johannesburg, Gauteng",
       description:
@@ -53,7 +53,7 @@ let profile = {
       to: "Now"
     }
   ],
-  quote: "I turn coffee into code"
+  quote: "All growth depends upon activity"
 };
 
 let page = {
